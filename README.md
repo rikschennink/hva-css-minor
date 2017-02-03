@@ -1,3 +1,3 @@
+# Components
 
-
-http://emojione.com
+Rating example makes use of Emoji from: http://emojione.com
